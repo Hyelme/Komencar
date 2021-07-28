@@ -136,4 +136,4 @@ gantt
 
 ## PROJECT RULES
 
-[project-rules](https://lab.ssafy.com/s04-ai-image-sub3/s04p23b101/blob/master/project_rule.md)
+[project-rules](https://github.com/Hyelme/Komencar/blob/master/project_rule.md)
