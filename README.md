@@ -70,7 +70,7 @@
 ## 프로토타입 & 화면 정의서
 
 **초기 프로토타입 문서**  
-[komencar_prototype](https://lab.ssafy.com/s04-ai-image-sub3/s04p23b101/blob/master/Prototype/Komencar_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
+[komencar_prototype](https://github.com/Hyelme/Komencar/blob/master/Prototype/Komencar_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)
 
 **어바웃 페이지**  
 ![komencar_about.gif](README.assets/komencar_about.gif)
